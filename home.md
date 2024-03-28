@@ -1,20 +1,22 @@
-UX/UI
 
 # Introduccion del curso
 
 Enlaces de acceso rapido:
 
-1. [Fundamentos del diseño](#introduction)
-2. [Accesibilidad](#accesibility)
-3. [Experiencia de usuario](#user-experience)  
-4. [Proceso del diseño](#design-process)
-5. [Diseño de interfaces](#interface-design)
-6. [Prototipos](#prototypes)
-7. [UX testing](#ux-testing)
+1. [Fundamentos del diseño](#Introduction)
+2. [Accesibilidad](#Accesibility)
+3. [Experiencia de usuario](#User-experience)  
+4. [Proceso del diseño](#Design-process)
+5. [Diseño de interfaces](#Interface-design)
+6. [Prototipos](#Prototypes)
+7. [UX testing](#Ux-testing)
 
 ----------------------------------------------------------------------------
 
-# introduction
+# Introduction
+"Fundamentos del diseño"
+
+# Introduccion 
 
 > El proyecto:
 
@@ -22,24 +24,24 @@ Landing page cafetería
 
 Caracteristicas: 
 
-Bebidas calientes
+> Bebidas calientes
 • Latte
 • Capuccino
 • Americano
 • Macchiato
 • Moka
 
-Alimentos
+> Alimentos
 • Desayunos
 • Lunch
 • Postres
 
-Expendio Cafe
+> Expendio Cafe
 • Cafe de Chiapas
 • Cafe de Veracruz
 • Cafe de Guerrero
 
-Accesibilidad
+> Accesibilidad
 • Ubicacion
 • Informacion de envios
 • Contacto
@@ -119,3 +121,24 @@ Significa que la tipografia esta estilizada y utiliza la cursiva como foco de di
 • Logotipos
 • Titulos
 • Invitaciones
+
+# ¿Como elijo una tipografia?
+
+> Es recomendable usar no mas de 3 tipografias distintas en tu proyecto o incluso 2, simplemente para no confundir al usuario y que la lectura sea agil y sencilla
+> Es importante respetar los estandares de tipografia, es decir, las tipografias mas reconocidas y que sabemos que funcionan correctamente a la hora de entregar nuestro producto al cliente
+> La legibilidad es siempre importante, por lo que utiliza los tipos de tipografias de manera eficiente, si queremos escribir mucho texto dentro de una pagina web, lo recomendable seria utilizar una tipografia sans serif. Si quisieramos destacar un articulo o un texto, podriamos utilizar una tipografia serifada. Tener en cuenta que se puede variar el tamaño de las letras para aprovechar siempre al maximo estos atributos
+> Mantene las lineas separadas unas de otras, un buen interlineado va a ser que la lectura sea mas sencilla y a su vez queda mas prolijo
+
+## Unos tips esenciales tambien a considerar
+
+• Limita la cantidad de texto en tu pagina
+> Recorda que no solamente apuntamos a usuarios que dispongan de una computadora, cuando tengamos mucho texto, en un dispositivo movil se va a ver muy incomodo y hasta engorroso de leer
+• Crea suficiente contraste entre el texto y el fondo
+> No hay mucho que explicar, simplemente evitar utilizar colores parecidos y/o que puedan afectar la legibilidad de los textos
+• Evitar distractores o animaciones intermitentes en los textos
+> Queremos que el usuario se sienta comodo al leer, entiendo que una animacion se veria genial y todo, pero siempre y cuando sea suave y no distraiga u/o obstaculice la lectura
+
+En lo personal, le doy mayor preferencia a las tipografias de palo seco, ya que su simpleza las hace extremadamente utiles.
+
+Por ejemplo: 
+
