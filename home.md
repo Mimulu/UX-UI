@@ -99,7 +99,7 @@ A diferencia de la serif, esta no posee serifa ni remate, tambien se la conoce c
 • Titulos
 • Textos pequeños
 
-1. Script o cursiva
+3. Script o cursiva
 
 Significa que la tipografia esta estilizada y utiliza la cursiva como foco de diseño, suele utilizarse para destacar ciertas partes de un texto, puede ser un titulo, pero nunca deberia ser utilizada como fuente principal para redactar, ya que no es del todo legible y perderiaa aun mas legibilidad cuando la letra sea pequeña
 
