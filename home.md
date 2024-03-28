@@ -25,6 +25,7 @@ Landing page cafetería
 Caracteristicas: 
 
 > Bebidas calientes
+
 • Latte
 • Capuccino
 • Americano
@@ -32,16 +33,19 @@ Caracteristicas:
 • Moka
 
 > Alimentos
+
 • Desayunos
 • Lunch
 • Postres
 
 > Expendio Cafe
+
 • Cafe de Chiapas
 • Cafe de Veracruz
 • Cafe de Guerrero
 
 > Accesibilidad
+
 • Ubicacion
 • Informacion de envios
 • Contacto
@@ -51,6 +55,7 @@ Caracteristicas:
 # Fundamentos del diseño
 
 ¿Que es el diseño segun lo que abarcaremos?
+
 > Consiste en configurar los signos para resolver algo para una persona, utilizaremos una serie de elementos para comunicar o transmitir algo, puede ser un mensaje, una imagen, resolver una tarea y/o el conjunto de todos estos.
 La idea es esencialmente que resuelva una necesidad o cumpla un objetivo particular, el diseño no debe ser bonito o estetico para cumplir con su proposito, sin duda es un plus y algo que va a agradar/captar la atención del espectador, pero el mayor objetivo sera encontrarle el sentido a este de manera tal que funcione cumpliendo lo deseado.
 
@@ -61,18 +66,21 @@ La idea es esencialmente que resuelva una necesidad o cumpla un objetivo particu
 Significa que la tipografia tiene una serifa o remate en cada letra, suele verse como una colita al final de cada borde de cada una de ellas
 
 > Personalidad: 
+
 • Tradicional
 • Sofisticada
 • Confiable
 • Practica
 
 > Fuentes: 
+
 • Arial
 • Helvetica
 • Verdana
 • Times New Roman
 
 > Usos:
+
 • Logotipos
 • Textos de parrafo
 • Titulos
@@ -83,6 +91,7 @@ Significa que la tipografia tiene una serifa o remate en cada letra, suele verse
 A diferencia de la serif, esta no posee serifa ni remate, tambien se la conoce como tipografía de palo seco, suele ser mas legible ya que al no adornarse la letra, esta permite mayor legibilidad en textos mas pequeños
 
 > Personalidad: 
+
 • Moderna
 • Limpia
 • Humanista
@@ -90,11 +99,13 @@ A diferencia de la serif, esta no posee serifa ni remate, tambien se la conoce c
 • Universal
 
 > Fuentes: 
+
 • Open sans
 • Roboto
 • Verdana
 
 > Usos:
+
 • Sitios web
 • Logotipos
 • Textos de parrafo
@@ -106,6 +117,7 @@ A diferencia de la serif, esta no posee serifa ni remate, tambien se la conoce c
 Significa que la tipografia esta estilizada y utiliza la cursiva como foco de diseño, suele utilizarse para destacar ciertas partes de un texto, puede ser un titulo, pero nunca deberia ser utilizada como fuente principal para redactar, ya que no es del todo legible y perderiaa aun mas legibilidad cuando la letra sea pequeña
 
 > Personalidad: 
+
 • Elegante
 • Clasica
 • Formal
@@ -113,11 +125,13 @@ Significa que la tipografia esta estilizada y utiliza la cursiva como foco de di
 • Estilizada
 
 > Fuentes: 
+
 • Lobster
 • Pacifico
 • Caveat
 
 > Usos:
+
 • Logotipos
 • Titulos
 • Invitaciones
@@ -125,16 +139,21 @@ Significa que la tipografia esta estilizada y utiliza la cursiva como foco de di
 # ¿Como elijo una tipografia?
 
 > Es recomendable usar no mas de 3 tipografias distintas en tu proyecto o incluso 2, simplemente para no confundir al usuario y que la lectura sea agil y sencilla
+
 > Es importante respetar los estandares de tipografia, es decir, las tipografias mas reconocidas y que sabemos que funcionan correctamente a la hora de entregar nuestro producto al cliente
+
 > La legibilidad es siempre importante, por lo que utiliza los tipos de tipografias de manera eficiente, si queremos escribir mucho texto dentro de una pagina web, lo recomendable seria utilizar una tipografia sans serif. Si quisieramos destacar un articulo o un texto, podriamos utilizar una tipografia serifada. Tener en cuenta que se puede variar el tamaño de las letras para aprovechar siempre al maximo estos atributos
+
 > Mantene las lineas separadas unas de otras, un buen interlineado va a ser que la lectura sea mas sencilla y a su vez queda mas prolijo
 
 ## Unos tips esenciales tambien a considerar
 
 • Limita la cantidad de texto en tu pagina
 > Recorda que no solamente apuntamos a usuarios que dispongan de una computadora, cuando tengamos mucho texto, en un dispositivo movil se va a ver muy incomodo y hasta engorroso de leer
+
 • Crea suficiente contraste entre el texto y el fondo
 > No hay mucho que explicar, simplemente evitar utilizar colores parecidos y/o que puedan afectar la legibilidad de los textos
+
 • Evitar distractores o animaciones intermitentes en los textos
 > Queremos que el usuario se sienta comodo al leer, entiendo que una animacion se veria genial y todo, pero siempre y cuando sea suave y no distraiga u/o obstaculice la lectura
 
