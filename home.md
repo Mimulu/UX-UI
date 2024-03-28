@@ -159,5 +159,9 @@ Significa que la tipografia esta estilizada y utiliza la cursiva como foco de di
 
 En lo personal, le doy mayor preferencia a las tipografias de palo seco, ya que su simpleza las hace extremadamente utiles.
 
-Por ejemplo: 
+Por ejemplo:
+
+![LetraElegida](https://github.com/Mimulu/UX-UI/assets/85315009/100005b9-c7f4-4f78-9b5f-6aebe89e4b5e)
+
+Notamos que pese a variar su tamaño, no pierde legibilidad
 
