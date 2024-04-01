@@ -3,20 +3,22 @@
 
 Enlaces de acceso rapido:
 
-1. [Fundamentos del diseño](#Introduction)
-2. [Accesibilidad](#Accesibility)
+1. [Fundamentos del diseño](#Introduccion)
+    - [Intro](#fundamentos-del-diseño)
+    - [Eleccion de tipografias](#tipografia)
+    - [Armado de paletas](#teoria-del-color)
+
+2. [Accesibilidad](#Accesibilidad)
 3. [Experiencia de usuario](#User-experience)  
-4. [Proceso del diseño](#Design-process)
-5. [Diseño de interfaces](#Interface-design)
-6. [Prototipos](#Prototypes)
+4. [Proceso del diseño](#Proceso-de-diseño)
+5. [Diseño de interfaces](#Diseño-de-interfaces)
+6. [Prototipos](#Prototipos)
 7. [UX testing](#Ux-testing)
 
 ----------------------------------------------------------------------------
 
-# Introduction
-"Fundamentos del diseño"
-
 # Introduccion 
+"Fundamentos del diseño"
 
 > El proyecto:
 
@@ -136,7 +138,7 @@ Significa que la tipografia esta estilizada y utiliza la cursiva como foco de di
 • Titulos
 • Invitaciones
 
-# ¿Como elijo una tipografia?
+## ¿Como elijo una tipografia?
 
 > Es recomendable usar no mas de 3 tipografias distintas en tu proyecto o incluso 2, simplemente para no confundir al usuario y que la lectura sea agil y sencilla
 
@@ -206,3 +208,43 @@ Podemos determinar que el color posee tres propiedades fundamentales:
 • Adobe Color (https://color.adobe.com)
 • Cohesive Colors (https://javier.xyz/cohesive-colors)
 
+# Accesibilidad
+
+¿Que es la accesibilidad?
+> La accesibilidad es una forma de que los usuarios puedan acceder, interpretar y operar con nuestra pagina web desde distintos medios bajo distintas situaciones o escenarios.
+
+Por ejemplo: 
+
+• Situacion A:
+> Tenemos un usuario de una edad aproximada a los 40 años ingresando desde su dispositivo movil a nuestra pagina web de la cafeteria desde la comodidad de su sillon para ordenar un americano a domicilio.
+
+• Situacion B: 
+> Tenemos una usuaria que desea consultar el catalogo desde una notebook mientras se toma un receso de sus estudios en la universidad.
+
+Ambas situaciones son distintas, los usuarios son distintos, sus capacidades pueden o no ser distintas, su servicio de internet puede ser distinto, y mismo los dispositivos tambien lo son, sin embargo, ambos pueden acceder a nuestra web independientemente de sus situaciones o caracteristicas. Es indispensable que nuestra web sea accesible por todo tipo de potenciales clientes, y para ello debemos procurar ofrecerles un servicio que sea intuitivo de usar y de facil acceso.
+
+## ¿Por que importa la accesibilidad?
+
+1. Incluye a las personas con discapacidad
+2. Mejora la usabilidad de los productos
+3. En muchos lugares es ley
+
+Al ser una cafeteria, deberiamos considerar ciertas cosas para hacer inclusion a los clientes con necesidades especificas, tener un catalogo especial para celiacos, o tener alguna opcion vegana. Tener siempre en cuenta la legibilidad de la informacion que queremos brindarle al usuario para que este se sienta bienvenido y comodo.
+
+## WCAG
+
+WCAG en ingles significa Web content accesibility guidelines o pautas de accesibilidad para el contenido web y son un rango de recomendaciones para crear contenido web accesible y amigable al usuario.
+
+Los cuatro principios de WCAG
+
+1. Perceptible
+> La informacion y los componentes de la interfaz de usuario deben ser presentados de manera que las personas puedan identificarlos, es decir, que sean visibles, reconocibles e intuitivos.
+
+2. Operable
+> Los componentes de la interfaz deben ser operables, es decir, deben funcionar en todo momento y responder al comportamiento esperado.
+
+3. Comprensible
+> La informacion y manejo de la interfaz de usuario deben ser comprensibles, por eso se debe hacer hincapie en que cuanto mas intuitiva sea la interfaz, mejor lograda estara, ademas de mantener la claridad y objetividad de los textos
+
+4. Robusto
+> El contenido debe ser lo suficientemente robusto para ser interpretado de forma fiable por una amplia variedad de usuarios, incluyendo ayudas tecnicas, por ayudas tecnicas se entiende una seccion de preguntas frecuentes o asistencia al usuario en caso que su problematica no se encuentre alli resuelta.
