@@ -183,6 +183,8 @@ Podemos determinar que el color posee tres propiedades fundamentales:
 
 • Monocromaticas
 > Son todos los colores de un mismo color, pero variando su intensidad, tintes y sombras
+![image](https://github.com/Mimulu/UX-UI/assets/85315009/e9596467-5cb0-440c-954b-edc1622b725c)
+
 
 • Complementarios
 > Se utilizan colores opuestos en el circulo cromatico, por ejemplo, rojo y verde o violeta y amarillo
