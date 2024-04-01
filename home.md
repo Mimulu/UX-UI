@@ -9,6 +9,9 @@ Enlaces de acceso rapido:
     - [Armado de paletas](#teoria-del-color)
 
 2. [Accesibilidad](#Accesibilidad)
+    - [Importancia de la accesibilidad](#¿por-que-importa-la-accesibilidad)
+    - [Directices de accesibilidad](#wcag)
+    
 3. [Experiencia de usuario](#User-experience)  
 4. [Proceso del diseño](#Proceso-de-diseño)
 5. [Diseño de interfaces](#Diseño-de-interfaces)
