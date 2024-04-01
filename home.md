@@ -189,8 +189,16 @@ Podemos determinar que el color posee tres propiedades fundamentales:
 • Complementarios
 > Se utilizan colores opuestos en el circulo cromatico, por ejemplo, rojo y verde o violeta y amarillo
 
+![image](https://github.com/Mimulu/UX-UI/assets/85315009/84eabff6-ee5a-4cfe-a056-b37c85f7bf5c)
+![image](https://github.com/Mimulu/UX-UI/assets/85315009/02c725d4-8c95-4cb2-8078-28d5fb054ab8)
+
+
 • Analogos
-> Se utilizan colores dentro del mismo campo cromatico, una seleccion de los colores mas proximos o adyacentes al mismo, por ejemplo, rojo junto a naranja y amarillo 
+> Se utilizan colores dentro del mismo campo cromatico, una seleccion de los colores mas proximos o adyacentes al mismo, por ejemplo, rojo junto a naranja y amarillo
+
+![image](https://github.com/Mimulu/UX-UI/assets/85315009/3c046754-f893-46b6-95e6-595b60d82641)
+![image](https://github.com/Mimulu/UX-UI/assets/85315009/10735116-9d46-4f6f-92be-57daff0cb786)
+
 
 
 ## ¿Como hacemos una paleta de color?
@@ -201,8 +209,8 @@ Podemos determinar que el color posee tres propiedades fundamentales:
 
 ## Herramientas para generar tus paletas de color
 
-• ColorHunt (https://colorhunt.co)
-• Brand Colors (https://brandcolors.net)
-• Adobe Color (https://color.adobe.com)
-• Cohesive Colors (https://javier.xyz/cohesive-colors)
+> • ColorHunt (https://colorhunt.co)
+> • Brand Colors (https://brandcolors.net)
+> • Adobe Color (https://color.adobe.com)
+> • Cohesive Colors (https://javier.xyz/cohesive-colors)
 
