@@ -165,3 +165,42 @@ Por ejemplo:
 
 Notamos que pese a variar su tamaño, no pierde legibilidad
 
+
+# Teoria del color
+
+El color como bien lo conocemos, es aquella proyeccion de luz reflejada en la superficie de un objeto. 
+Podemos determinar que el color posee tres propiedades fundamentales:
+
+• Matiz
+• Saturacion
+• Valor o brillo
+
+## Ahora, ¿Que es entonces la teoria del color?
+
+> Es un conjunto de reglas basicas que rigen la mezcla de colores para conseguir un efecto deseado, sea mediante la combinacion de colores o pigmentos. Alguna vez habremos leido o escuchado hablar de los formatos RGB o los formatos CMYK, puesto que no es ninguna casualidad, son dos esquemas de color popularmente utilizados a dia de hoy. El RGB se lo reconoce como (Red, Green, Blue) y simboliza la mezcla de colores por luz, mientras que el CMYK (Cyan, Magenta, Yellow, Key) simboliza la mezcla por pigmentos.
+
+## ¿Que tipos de paletas existen?
+
+• Monocromaticas
+> Son todos los colores de un mismo color, pero variando su intensidad, tintes y sombras
+
+• Complementarios
+> Se utilizan colores opuestos en el circulo cromatico, por ejemplo, rojo y verde o violeta y amarillo
+
+• Analogos
+> Se utilizan colores dentro del mismo campo cromatico, una seleccion de los colores mas proximos o adyacentes al mismo, por ejemplo, rojo junto a naranja y amarillo 
+
+
+## ¿Como hacemos una paleta de color?
+
+> Una paleta de color es un conjunto de tonalidades que elegimos para representar en este caso nuestra web, esta debe tener armonia y relacion entre si para generar una identidad propia. Suelen elegirse una cantidad acortada de colores, cosa de definir bien cada uso o proposito del mismo, no mas de 3 o 4 colores generalmente.
+
+> Podemos tomar estos colores del branding o logotipo en caso de que ya contemos con uno, y si no, ser objetivos e identificar el rubro o la funcionalidad que tenga nuestra pagina. En el caso de una cafeteria, podemos determinar que abundan los colores calidos; los rojos, marrones, amarillos, colores con los que podriamos definir una cafeteria. O en el caso de un hospital, sabemos que el color mayormente relacionado a la salud es el azul o verde.
+
+## Herramientas para generar tus paletas de color
+
+• ColorHunt (https://colorhunt.co)
+• Brand Colors (https://brandcolors.net)
+• Adobe Color (https://color.adobe.com)
+• Cohesive Colors (https://javier.xyz/cohesive-colors)
+
