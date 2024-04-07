@@ -292,7 +292,8 @@ Vistos los ejemplos podemos decir que nos ayuda a entender a las ambas partes de
 
 ## Elementos de UX
 
-[Imagen]
+![image](https://github.com/Mimulu/UX-UI/assets/85315009/ac9e4296-14ea-4596-958e-f1a15b43e6a2)
+
 
 De manera ascendente iremos llamando a cada una de los pisos del esquema.
 
@@ -305,16 +306,18 @@ Estrategia
 
 Alcance
 
-> Funcionalidades: Las tareas que debe seguir un sistema para alcanzar los objetivos del negocio
-> Contenido: Identificar la cantidad de imagenes,graficas, textos y secciones
+> • Funcionalidades: Las tareas que debe seguir un sistema para alcanzar los objetivos del negocio
+> • Contenido: Identificar la cantidad de imagenes,graficas, textos y secciones
 
 Estructura
 
 Define los sistemas de navegacion, jerarquia y busqueda
 
 Se divide en:
-> • Arquitectura de la informacion (Responde a donde estara el contenido y su relacion con el resto, ademas de como el usuario llegara a el)
-> • Diseño de interaccion (Como los usuarios van a interactuar con el sistema, pueden ser: Botones, scrolls, sliders, contadores, mensajes de error, pantallas de carga y todo aquello funcional que pueda acceder el usuario) 
+
+> • Arquitectura de la informacion (Responde a donde estara el contenido y su relacion con el resto, ademas de como el usuario llegara a el).
+
+> • Diseño de interaccion (Como los usuarios van a interactuar con el sistema, pueden ser: Botones, scrolls, sliders, contadores, mensajes de error, pantallas de carga y todo aquello funcional que pueda acceder el usuario) .
 
 Esqueleto
 
@@ -327,10 +330,10 @@ Contenido visual
 En esta capa iran todos los recursos visuales, sean imagenes, tipografias y otros elementos de diseño
 
 Tambien tendra en cuenta:
-> • Cuales componentes seran interactivos?
-> • Los elementos esteticos se puedan diferenciar
-> • El sistema sea congruente a nivel experiencia
-> • Los elementos que hacen al diseño 
+> • Cuales componentes seran interactivos?.
+> • Los elementos esteticos se puedan diferenciar.
+> • El sistema sea congruente a nivel experiencia.
+> • Los elementos que hacen al diseño .
 
 ## Investigacion en el UX
 
