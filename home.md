@@ -13,6 +13,10 @@ Enlaces de acceso rapido:
     - [Directices de accesibilidad](#wcag)
     
 3. [Experiencia de usuario](#User-experience)  
+    - [Que es la experiencia de usuario?](#que-es-la-experiencia-de-usuario)
+    - [Elementos de UX segun Jesse Garrett](#elementos-de-UX)
+    - [Tipos de investigacion](#investigacion-en-el-ux)
+    
 4. [Proceso del diseño](#Proceso-de-diseño)
 5. [Diseño de interfaces](#Diseño-de-interfaces)
 6. [Prototipos](#Prototipos)
@@ -259,3 +263,97 @@ Los cuatro principios de WCAG
 
 4. Robusto
 > El contenido debe ser lo suficientemente robusto para ser interpretado de forma fiable por una amplia variedad de usuarios, incluyendo ayudas tecnicas, por ayudas tecnicas se entiende una seccion de preguntas frecuentes o asistencia al usuario en caso que su problematica no se encuentre alli resuelta.
+
+# User Experience
+
+## Que es la experiencia de usuario?
+
+"La experiencia de usuario abarca todos los aspectos de la interaccion del usuario final con la empresa, sus servicios y productos", es decir, de toda la experiencia ofrecida por parte de nuestra pagina web, desde su entrada a la pagina, hasta la compra de nuestros productos y la satisfaccion del mismo.
+
+El UX esta compuesto por tres grandes factores:
+>  • Las necesidades del usuario
+>  • Los objetivos de negocio
+>  • Tecnologia
+
+El encargado de UX deberia ser un intermediario entre las necesidades tanto del usuario y las necesidades del negocio para llegar un acuerdo comun que provea una mayor satisfaccion.
+
+Por ejemplo:
+> Tenemos un cliente A que desea realizar un pedido de una torta de cumpleaños, este va a pagar con una tarjeta de credito en cuotas
+> Nuestro negocio quiere limitar las tarjetas afiliadas ya que muchas de ellas cobran intereses mayores a lo esperado
+> Una solucion viable seria facilitar la comunicacion con el negocio mediante metodos de contacto y especificar que tarjetas estan permitidas en nuestro negocio, de manera tal que no preste a ninguna confusion a la hora de hacer el pedido.
+
+Otro ejemplo:
+> Un usuario A desea cancelar una cita medica
+> El negocio quiere evitar el reembolso
+> Una solucion seria ofrecer un cambio de fecha de la cita
+
+Entonces... Para que nos sirve UX?
+Vistos los ejemplos podemos decir que nos ayuda a entender a las ambas partes de un negocio, tanto usuarios como al negocio en si. Es decir, nos ayuda a entender con quien o quienes vamos a trabajar. Ademas, UX nos da la informacion necesaria para comenzar a poner manos a la obra.
+
+## Elementos de UX
+
+[Imagen]
+
+De manera ascendente iremos llamando a cada una de los pisos del esquema.
+
+Estrategia
+
+> • ¿Por que? ¿Para que?
+> • ¿Cuales son las necesidades?
+> • Proposito
+> • Generacion de estrategia desde la perspectiva de usuario y negocio
+
+Alcance
+
+> Funcionalidades: Las tareas que debe seguir un sistema para alcanzar los objetivos del negocio
+> Contenido: Identificar la cantidad de imagenes,graficas, textos y secciones
+
+Estructura
+
+Define los sistemas de navegacion, jerarquia y busqueda
+
+Se divide en:
+> • Arquitectura de la informacion (Responde a donde estara el contenido y su relacion con el resto, ademas de como el usuario llegara a el)
+> • Diseño de interaccion (Como los usuarios van a interactuar con el sistema, pueden ser: Botones, scrolls, sliders, contadores, mensajes de error, pantallas de carga y todo aquello funcional que pueda acceder el usuario) 
+
+Esqueleto
+
+> • Visualiza los contenidos interactuando con otros
+> • Aseguramos que la solucion propuesta sea funcional
+> • Cumple tanto como con los objetivos del usuario como del negocio
+
+Contenido visual
+
+En esta capa iran todos los recursos visuales, sean imagenes, tipografias y otros elementos de diseño
+
+Tambien tendra en cuenta:
+> • Cuales componentes seran interactivos?
+> • Los elementos esteticos se puedan diferenciar
+> • El sistema sea congruente a nivel experiencia
+> • Los elementos que hacen al diseño 
+
+## Investigacion en el UX
+
+Abarcaremos dos tipos
+
+Investigacion cuantitativa
+
+El objetivo de este tipo de investigacion es el cuantificar el problema de investigacion, es decir, nos otorgara datos objetivos y en su mayoria numericos(estadisticos) para determinar, por ejemplo, el porcentaje de abandono de un carrito de compras al intentar realizar una compra. Existen herramientas que nos proveen estas metricas que podrian ser:
+
+> • Cuestionarios
+> • Encuestas
+> • Estadisticas
+> • Google Analytics
+
+Estas, si bien nos dan resultados numericos, no nos proveen un "Por que" ocurren estas situaciones, por lo que deberemos pasar a la:
+
+Investigacion cualitativa
+
+Cuyo objetivo es recolectar los "por que" de los usuarios, por que en este caso abandonaron el carrito de compras.
+Los datos obtenidos estan relacionados con la casualidad, calidad y las propiedades del objeto de investigacion, por lo que deberemos proceder con diferentes herramientas de analisis, tales como:
+
+> • Entrevistas
+> • Pruebas de usabilidad
+> • Observacion
+> • Grupos focales
+> • Notas de campo
